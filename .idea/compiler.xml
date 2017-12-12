@@ -9,10 +9,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="springcloudchapter9" />
+        <module name="serverzipkin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="serverzipkin" target="1.8" />
       <module name="springcloudchapter9" target="1.5" />
     </bytecodeTargetLevel>
   </component>

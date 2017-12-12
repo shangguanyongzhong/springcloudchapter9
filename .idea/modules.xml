@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/serverzipkin/serverzipkin.iml" filepath="$PROJECT_DIR$/serverzipkin/serverzipkin.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudchapter9.iml" filepath="$PROJECT_DIR$/springcloudchapter9.iml" />
     </modules>
   </component>
