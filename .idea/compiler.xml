@@ -17,7 +17,7 @@
     <bytecodeTargetLevel>
       <module name="serverzipkin" target="1.8" />
       <module name="servicehi" target="1.8" />
-      <module name="servicemiya" target="1.5" />
+      <module name="servicemiya" target="1.8" />
       <module name="springcloudchapter9" target="1.5" />
     </bytecodeTargetLevel>
   </component>
